@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+    background: #FBF7FF;;
+}
+
+.heading {
+    position: absolute;
+    width: 134px;
+    height: 34px;
+    left: 165px;
+    top: 32px;
+    background: url(image.png);
+}
+.vector{
+position: absolute;
+width: 0px;
+height: 34px;
+left: 319px;
+top: 32px;
+
+border: 1px solid #3D1665;
+}
+
+.supportDocs{
+position: absolute;
+width: 100px;
+height: 17px;
+left: 339px;
+top: 41px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #16002C;
+}
+
+.general{
+position: absolute;
+width: 98px;
+height: 28px;
+left: 355px;
+top: 160px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #16002C;
+
+}
+
+#crm-heading{
+position: absolute;
+width: 173px;
+height: 28px;
+left: 355px;
+top: 312px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #16002C;
+}
+
+.list, .list1, .list2, .list3, .list4{
+    position: absolute;
+    width: 730px;
+    height: 60px;
+    left: 355px;
+    background: #FFFFFF;
+    box-shadow: 8px 8px 24px rgba(0, 0, 0, 0.08);
+    border-radius: 8px; 
+}  
+
+.list{
+    top:212px;
+}
+
+.list1{
+top: 364px;
+}
+
+.list2{
+top: 440px;
+}
+
+.list3{
+    top: 516px;
+}
+
+.list4{
+    top: 592px; 
+}
+
+.text-style1, .text-style2, .text-style3, .text-style4{
+    position: absolute;
+    width: 542px;
+    height: 2px;
+    left: 80px;
+    top: 15px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #5B5066;
+    }
+
+    
+    .line-style1, .line-style2, .line-style3, .line-style4{
+    position: absolute;
+     left: 60px;
+     top: 0px;
+
+    }
+    
+    .img-style1{
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.12));
+        border-radius: 1px; 
+    }
+    .img-style2{
+        position: absolute;
+        width: 32.06px;
+        height: 32px;
+        top: 19px;
+        left: -371px;
+        filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.12));
+    }
+    .img-style3{
+        position: absolute;
+        width: 140px;
+        height: 3.83px;
+        top: -244px;
+        left: -375px;
+        filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.12));
+    }
+    .img-style4{
+        position: absolute;
+        width: 45.7px;
+        height: 32px;
+        
+        filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.12)); 
+    }
+
+  #start{
+    margin: 10px;
+  }
+
+  #zoho{
+    height: 30px;
+    margin: 10px 0px 0px 0px ;
+  }
+  
+  #salesforce{
+    width: 55px;
+    margin: 10px 0px 0px 0px ;
+  }
+
+  .content{
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  }
+
+  
+   
